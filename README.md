@@ -1,4 +1,4 @@
-# Secure Nginx
+# Secure Nginx 🔒
 
 This repository contains a basic and secure configuration for the Nginx reverse proxy.
 
